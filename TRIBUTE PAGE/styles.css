@@ -1,0 +1,53 @@
+* {
+  background: white;
+}
+
+#title {
+  text-align: center;
+  font-size: 2rem;
+  color: black;
+  padding: 15px;
+  margin: auto;
+  font-weight: 3rem;
+}
+
+#img-descr {
+  text-align: center;
+  font-size: 1rem;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  justify-content: center;
+}
+
+li {
+  color: black;
+  text-align: justify;
+}
+
+#img-caption {
+  text-align: center;
+}
+#tribute-info {
+  margin-left: 10px;
+}
+
+#timeline {
+  text-align: center;
+}
+
+#last-para {
+  text-align: center;
+  margin-left: 40px;
+}
+
+a {
+  color: blue;
+}
+
+.last-para {
+  text-align: center;
+}
